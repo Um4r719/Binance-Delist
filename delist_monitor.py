@@ -6,8 +6,8 @@ import requests
 from datetime import datetime
 
 # ---------- CONFIGURATION ----------
-TELEGRAM_TOKEN = "8753455dw"
-CHAT_ID = "15215415"
+TELEGRAM_TOKEN = "8753448870:AAEIVpLosykpT_x5FRfqOElBPZohj7w2cAc"
+CHAT_ID = "6226335310"
 
 # ---------- BUTTON CONFIGURATION ----------
 CHANNEL_USERNAME = "udbannerpvt"   # <-- Change this
